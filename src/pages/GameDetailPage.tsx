@@ -1,5 +1,5 @@
-const GameDetailpage = () => {
+const GameDetailPage = () => {
   return <div>GameDetailpage</div>;
 };
 
-export default GameDetailpage;
+export default GameDetailPage;
